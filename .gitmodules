@@ -1,0 +1,15 @@
+[submodule "go_intensive_day00"]
+	path = go_intensive_day00
+	url = https://github.com/bemmanue/go_intensive_day00
+[submodule "go_intensive_day01"]
+	path = go_intensive_day01
+	url = https://github.com/bemmanue/go_intensive_day01
+[submodule "go_intensive_day02"]
+	path = go_intensive_day02
+	url = https://github.com/bemmanue/go_intensive_day02
+[submodule "go_intensive_day03"]
+	path = go_intensive_day03
+	url = https://github.com/bemmanue/go_intensive_day03
+[submodule "go_intensive_day04"]
+	path = go_intensive_day04
+	url = https://github.com/bemmanue/go_intensive_day04
