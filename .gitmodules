@@ -16,3 +16,6 @@
 [submodule "go_intensive_day05"]
 	path = go_intensive_day05
 	url = https://github.com/bemmanue/go_intensive_day05.git
+[submodule "go_intensive_day06"]
+	path = go_intensive_day06
+	url = https://github.com/bemmanue/go_intensive_day06.git
