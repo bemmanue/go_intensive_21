@@ -9,3 +9,4 @@ Intensive course covering Golang development topics
 * [Day 03: Elasticsearch](https://github.com/bemmanue/go_intensive_day03)
 * [Day 04: HTTP](https://github.com/bemmanue/go_intensive_day04)
 * [Day 05: Algorithms and Structures](https://github.com/bemmanue/go_intensive_day05)
+* [Day 06: PostgreSQL](https://github.com/bemmanue/go_intensive_day06)
