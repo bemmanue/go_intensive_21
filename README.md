@@ -11,3 +11,5 @@ Intensive course covering Golang development topics
 * [Day 05: Algorithms and Structures](https://github.com/bemmanue/go_intensive_day05)
 * [Day 06: PostgreSQL](https://github.com/bemmanue/go_intensive_day06)
 * [Day 07: Testing](https://github.com/bemmanue/go_intensive_day07)
+* [Day 08: Unsafe](https://github.com/bemmanue/go_intensive_day08)
+* [Day 09: Goroutines and channels](https://github.com/bemmanue/go_intensive_day09)
